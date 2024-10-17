@@ -1,6 +1,10 @@
 # xai-hatespeech
 
 # Zum Datensatz
+
+Quelle:
+https://www.kaggle.com/datasets/waalbannyantudre/hate-speech-detection-curated-dataset?resource=download&select=HateSpeechDatasetBalanced.csv
+
 Der Datensatz enthält folgende Spalten:
 
 - `Content`: Textinhalt
