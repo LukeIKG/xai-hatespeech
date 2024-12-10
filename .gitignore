@@ -1,2 +1,5 @@
 #csv ignorieren
 HateSpeechDatasetBalanced.csv
+HatespeechDataset.csv
+
+.venv
